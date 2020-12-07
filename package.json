@@ -1,0 +1,26 @@
+{
+  "name": "lp-veloz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farubens/lp-veloz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farubens/lp-veloz/issues"
+  },
+  "homepage": "https://github.com/farubens/lp-veloz#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
